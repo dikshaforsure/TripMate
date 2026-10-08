@@ -6,7 +6,7 @@ The project is implemented as a single FastAPI application that serves the web U
 
 ## Live Architecture
 
-\`\`\`text
+
 Browser
    |
    | POST /api/travel
@@ -44,7 +44,7 @@ External integrations:
 - Custom Weather MCP Server
 - Groq
 - PostgreSQL / LangGraph Postgres Checkpointer
-\`\`\`
+
 
 ## What the Project Solves
 
