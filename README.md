@@ -5,7 +5,7 @@ TripMate AI is a multi-agent travel planning assistant built around LangGraph an
 The project is implemented as a single FastAPI application that serves the web UI and exposes the travel-planning API.
 
 ## Live Architecture
-![Uploading mermaid-diagram.png…]()
+![Alt text](mermaid-diagram.png)
 
 External integrations:
 - Tavily MCP Server
